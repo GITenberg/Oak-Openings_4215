@@ -1,0 +1,41 @@
+_repo: Oak-Openings_4215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    - Morgan, Jane
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "The Oak Opening; or, The Bee Hunter is an 1848 novel by James Fenimore\
+  \ Cooper. The novel focuses on the activities of a professional honey-hunter Benjamin\
+  \ Boden, nicknamed \"Ben Buzz\". The novel is the last of Cooper's novels to explore\
+  \ the relationships between Europeans and Native Americans in the early American\
+  \ expansion. The novel is set in Michigan's Oak Opening - a wooded prairie.\nThe\
+  \ novel has a significant religious thematic focus.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4215'
+  wikidata: Q19095455
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Historical fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: Oak Openings
+url: http://www.gutenberg.org/ebooks/4215
+wikipedia:
+- https://en.wikisource.org/wiki/The_Oak_Openings
+- https://en.wikipedia.org/wiki/The_Oak_Openings
