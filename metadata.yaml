@@ -1,5 +1,8 @@
 _repo: Oak-Openings_4215
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -18,6 +21,8 @@ description: "The Oak Opening; or, The Bee Hunter is an 1848 novel by James Feni
   \ the relationships between Europeans and Native Americans in the early American\
   \ expansion. The novel is set in Michigan's Oak Opening - a wooded prairie.\nThe\
   \ novel has a significant religious thematic focus.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4215#Oak-Openings
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
